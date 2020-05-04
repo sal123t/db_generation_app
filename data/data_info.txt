@@ -1,0 +1,12 @@
+#This file will help you to understand the purpose of the fields in the data.dat file.
+#The file data.dat in used by the object of class GetData for more convenient data management.
+String 1: Name of your database in the md5 sum format.
+String 2: Username using database in the md5 sum format.
+String 3: Username password in the md5 sum format.
+String 4: IPv4 host adress in the md5 sum format.
+String 5: The number of school's parallels.
+String 6: The number of school's teachers.
+Strings 7-8: The range of existing marks. (min/max)
+Strings 9-10: The range of group's homeworks. (min/max)
+String 11: The lowest possible place in the olympiads.
+Strings 12-13: The range of students in class. (min/max)
