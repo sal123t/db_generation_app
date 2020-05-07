@@ -1,0 +1,1094 @@
+22:35:46 Action done with result: Signed in!
+22:35:55 Action done with result: Cursor connected!
+22:35:55 Action done with result: File is opened!
+22:35:57 Action done with result: No database response!
+22:35:57 Action done with result: User request completed!
+22:35:57 Action done with result: Transaction commited!
+22:35:57 Action done with result: Cursor closed!
+22:36:30 Action done with result: Cursor connected!
+22:36:30 Action done with result: Successfully written in table!
+22:36:30 Action done with result: Transaction commited!
+22:36:30 Action done with result: Cursor closed!
+22:36:32 Action done with result: Cursor connected!
+22:36:32 Action done with result: Successfully read from table!
+22:36:32 Editing table: Groups
+(1, 'а', 2019, 1)
+(2, 'а', 2018, 2)
+(3, 'б', 2018, 2)
+(4, 'а', 2017, 3)
+(5, 'б', 2017, 3)
+(6, 'в', 2017, 3)
+(7, 'г', 2017, 3)
+(8, 'а', 2016, 4)
+(9, 'б', 2016, 4)
+(10, 'в', 2016, 4)
+(11, 'а', 2015, 5)
+(12, 'б', 2015, 5)
+(13, 'в', 2015, 5)
+(14, 'г', 2015, 5)
+(15, 'а', 2014, 6)
+(16, 'б', 2014, 6)
+(17, 'а', 2013, 7)
+(18, 'а', 2012, 8)
+(19, 'б', 2012, 8)
+(20, 'а', 2011, 9)
+(21, 'б', 2011, 9)
+(22, 'в', 2011, 9)
+(23, 'а', 2010, 10)
+(24, 'б', 2010, 10)
+(25, 'в', 2010, 10)
+(26, 'а', 2009, 11)
+22:36:32 Action done with result: Transaction commited!
+22:36:32 Action done with result: Cursor closed!
+22:36:39 Action done with result: Cursor connected!
+22:36:39 Action done with result: Successfully read from table!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:39 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: File is opened!
+22:36:40 Action done with result: Successfully written in table!
+22:36:40 Action done with result: Transaction commited!
+22:36:40 Action done with result: Cursor closed!
+22:36:41 Action done with result: Cursor connected!
+22:36:41 Action done with result: Successfully read from table!
+22:36:41 Editing table: Students
+(1, 'Низовцева', 'Анастасия', 'Леонидовна', 1)
+(2, 'Бакрылова', 'Светлана', 'Захаровна', 1)
+(3, 'Поникаров', 'Филипп', 'Андронович', 1)
+(4, 'Курбатова', 'Валерия', 'Фомевна', 1)
+(5, 'Ланцова', 'Анастасия', 'Игоревна', 1)
+(6, 'Хуснутдинов', 'Эрнест', 'Яковович', 1)
+(7, 'Квартовский', 'Денис', 'Елисеевич', 1)
+(8, 'Царицына', 'Любовь', 'Петровна', 1)
+(9, 'Сайбаталов', 'Наум', 'Евстафиевич', 1)
+(10, 'Аксёнова', 'Роза', 'Яновна', 1)
+(11, 'Грабарь', 'Эмма', 'Станиславовна', 1)
+(12, 'Ковалёва', 'Лариса', 'Иларионовна', 1)
+(13, 'Распопов', 'Артемий', 'Чеславович', 1)
+(14, 'Абакумова', 'Анфиса', 'Яновна', 1)
+(15, 'Никашин', 'Сергей', 'Ермолаевич', 1)
+(16, 'Пустоходова', 'Таисия', 'Казимировна', 1)
+(17, 'Фотин', 'Наум', 'Фомевич', 1)
+(18, 'Ёжина', 'Екатерина', 'Иларионовна', 1)
+(19, 'Цедлица', 'Фаина', 'Геннадиевна', 2)
+(20, 'Быстрова', 'Лада', 'Александровна', 2)
+(21, 'Яблокова', 'Людмила', 'Виталиевна', 2)
+(22, 'Сычёва', 'Лиана', 'Яновна', 2)
+(23, 'Лапухов', 'Андрей', 'Ильевич', 2)
+(24, 'Федорова', 'Кристина', 'Емельяновна', 2)
+(25, 'Новиков', 'Максим', 'Евграфович', 2)
+(26, 'Кручинина', 'Любава', 'Константиновна', 2)
+(27, 'Ананьев', 'Харитон', 'Мечиславович', 2)
+(28, 'Яналов', 'Эдуард', 'Ростиславович', 2)
+(29, 'Гайдук', 'Агап', 'Архипович', 2)
+(30, 'Вятт', 'Виталий', 'Кириллович', 2)
+(31, 'Журавлёва', 'Тамара', 'Тимуровна', 2)
+(32, 'Сухарников', 'Поликарп', 'Григориевич', 2)
+(33, 'Жаворонков', 'Леонид', 'Измаилович', 2)
+(34, 'Астрединова', 'Доминика', 'Брониславовна', 2)
+(35, 'Аксёнова', 'Наталия', 'Иосифовна', 2)
+(36, 'Кризько', 'Владимир', 'Мечиславович', 2)
+(37, 'Якухина', 'Милена', 'Геннадиевна', 3)
+(38, 'Бажанова', 'Агафья', 'Афанасиевна', 3)
+(39, 'Сподарев', 'Всеслав', 'Богданович', 3)
+(40, 'Уголева', 'Каролина', 'Ефимовна', 3)
+(41, 'Лидина', 'Диана', 'Потаповна', 3)
+(42, 'Эзрина', 'Лада', 'Карповна', 3)
+(43, 'Леванов', 'Артемий', 'Севастьянович', 3)
+(44, 'Яворов', 'Вадим', 'Архипович', 3)
+(45, 'Сиянских', 'Казимир', 'Ипатиевич', 3)
+(46, 'Андреюшкина', 'Зинаида', 'Никитевна', 3)
+(47, 'Эфирова', 'Марина', 'Федотовна', 3)
+(48, 'Юбкина', 'Ульяна', 'Святославовна', 3)
+(49, 'Ябров', 'Варфоломей', 'Ростиславович', 3)
+(50, 'Скворцов', 'Модест', 'Зиновиевич', 3)
+(51, 'Блокова', 'Раиса', 'Святославовна', 3)
+(52, 'Никулин', 'Денис', 'Тимурович', 3)
+(53, 'Комраков', 'Максим', 'Вячеславович', 3)
+(54, 'Балыков', 'Чеслав', 'Онисимович', 3)
+(55, 'Алимкина', 'Анна', 'Анатолиевна', 4)
+(56, 'Окладников', 'Филипп', 'Пахомович', 4)
+(57, 'Лоскутова', 'Полина', 'Ивановна', 4)
+(58, 'Макаров', 'Владилен', 'Евлампиевич', 4)
+(59, 'Царицына', 'Раиса', 'Федоровна', 4)
+(60, 'Курзыбов', 'Валерьян', 'Пахомович', 4)
+(61, 'Лунина', 'Нона', 'Романовна', 4)
+(62, 'Гончаров', 'Федор', 'Федосиевич', 4)
+(63, 'Ткач', 'Мирослав', 'Михеевич', 4)
+(64, 'Усенко', 'Клавдий', 'Федорович', 4)
+(65, 'Вельяминова', 'Фаина', 'Иларионовна', 4)
+(66, 'Куджиашвили', 'Самуил', 'Олегович', 4)
+(67, 'Палванова', 'Жанна', 'Романовна', 4)
+(68, 'Уманова', 'Пелагея', 'Потаповна', 4)
+(69, 'Набоков', 'Лукьян', 'Никонович', 4)
+(70, 'Полищука', 'Лариса', 'Тимуровна', 4)
+(71, 'Панькива', 'Вера', 'Тимофеевна', 4)
+(72, 'Журавлёва', 'Нина', 'Федоровна', 4)
+(73, 'Щепетинникова', 'Бронислава', 'Андрияновна', 5)
+(74, 'Проскура', 'Архип', 'Михеевич', 5)
+(75, 'Шалимов', 'Агафон', 'Фролович', 5)
+(76, 'Платонов', 'Лукьян', 'Самуилович', 5)
+(77, 'Бакрылова', 'Розалия', 'Ипполитовна', 5)
+(78, 'Пронина', 'Жанна', 'Всеволодовна', 5)
+(79, 'Бурмакин', 'Виктор', 'Севастьянович', 5)
+(80, 'Травников', 'Феликс', 'Елизарович', 5)
+(81, 'Смешной', 'Капитон', 'Макарович', 5)
+(82, 'Цирюльникова', 'Александра', 'Юлиевна', 5)
+(83, 'Эйлер', 'Осип', 'Игоревич', 5)
+(84, 'Жикина', 'Регина', 'Владиленовна', 5)
+(85, 'Онипченко', 'Ираида', 'Олеговна', 5)
+(86, 'Петрухина', 'Марина', 'Владленовна', 5)
+(87, 'Воронцова', 'Агния', 'Николаевна', 5)
+(88, 'Нарыкова', 'Жанна', 'Яновна', 5)
+(89, 'Гандельман', 'Руслан', 'Феоктистович', 5)
+(90, 'Канаша', 'Изольда', 'Святославовна', 5)
+(91, 'Федосова', 'Изольда', 'Владиленовна', 6)
+(92, 'Антоновича', 'Алиса', 'Мефодиевна', 6)
+(93, 'Ягнятев', 'Ираклий', 'Миронович', 6)
+(94, 'Яромеев', 'Константин', 'Маркович', 6)
+(95, 'Воронцов', 'Ираклий', 'Леонидович', 6)
+(96, 'Лобанова', 'Ирина', 'Германовна', 6)
+(97, 'Куликов', 'Эдуард', 'Семенович', 6)
+(98, 'Капралова', 'Юнона', 'Петровна', 6)
+(99, 'Жутова', 'Ксения', 'Несторовна', 6)
+(100, 'Цельнер', 'Петр', 'Елизарович', 6)
+(101, 'Алимкин', 'Всеслав', 'Анатолиевич', 6)
+(102, 'Попова', 'Эмилия', 'Михеевна', 6)
+(103, 'Юнге', 'Клавдий', 'Федорович', 6)
+(104, 'Юренева', 'Розалия', 'Марковна', 6)
+(105, 'Коровин', 'Модест', 'Филимонович', 6)
+(106, 'Куджиашвили', 'Сергей', 'Онуфриевич', 6)
+(107, 'Огурцова', 'Ника', 'Федотовна', 6)
+(108, 'Базанова', 'Нина', 'Игнатиевна', 6)
+(109, 'Булатов', 'Вадим', 'Андронович', 7)
+(110, 'Чернецкий', 'Артемий', 'Никонович', 7)
+(111, 'Кузьминых', 'Павел', 'Прокофиевич', 7)
+(112, 'Набокина', 'Марианна', 'Николаевна', 7)
+(113, 'Гайдученко', 'Адриан', 'Яковович', 7)
+(114, 'Ягнятев', 'Карл', 'Иванович', 7)
+(115, 'Сияница', 'Арина', 'Федотовна', 7)
+(116, 'Царёва', 'Бронислава', 'Николаевна', 7)
+(117, 'Пережогин', 'Бронислав', 'Левович', 7)
+(118, 'Бандуркина', 'Варвара', 'Евгениевна', 7)
+(119, 'Цирюльникова', 'Марина', 'Трофимовна', 7)
+(120, 'Капралова', 'Ника', 'Антониновна', 7)
+(121, 'Торсунов', 'Рубен', 'Леонидович', 7)
+(122, 'Янкевич', 'Эдуард', 'Чеславович', 7)
+(123, 'Гавриленкова', 'Марианна', 'Олеговна', 7)
+(124, 'Старостин', 'Вячеслав', 'Ростиславович', 7)
+(125, 'Лебединцев', 'Поликарп', 'Иннокентиевич', 7)
+(126, 'Ерохина', 'Фаина', 'Мефодиевна', 7)
+(127, 'Мамыкина', 'Яна', 'Афанасиевна', 8)
+(128, 'Сычкина', 'Ираида', 'Марковна', 8)
+(129, 'Типалова', 'Бронислава', 'Данилевна', 8)
+(130, 'Куваева', 'Раиса', 'Ильевна', 8)
+(131, 'Громов', 'Филипп', 'Никанорович', 8)
+(132, 'Саврасова', 'Регина', 'Семеновна', 8)
+(133, 'Пярин', 'Федор', 'Проклович', 8)
+(134, 'Семенов', 'Самуил', 'Еремеевич', 8)
+(135, 'Цейдлерина', 'Марфа', 'Иосифовна', 8)
+(136, 'Яйцов', 'Демьян', 'Потапович', 8)
+(137, 'Канадина', 'Ирина', 'Тимуровна', 8)
+(138, 'Енотина', 'Светлана', 'Романовна', 8)
+(139, 'Жвикова', 'Ираида', 'Тимуровна', 8)
+(140, 'Карпюк', 'Венедикт', 'Елисеевич', 8)
+(141, 'Гайдук', 'Георгий', 'Эмилевич', 8)
+(142, 'Витаева', 'Варвара', 'Казимировна', 8)
+(143, 'Сияновича', 'Полина', 'Несторовна', 8)
+(144, 'Казакова', 'Эвелина', 'Германовна', 8)
+(145, 'Логиновский', 'Нестор', 'Фомевич', 9)
+(146, 'Кузубов', 'Прокл', 'Михеевич', 9)
+(147, 'Эйбоженко', 'Анатолий', 'Евлампиевич', 9)
+(148, 'Стрельцова', 'Вероника', 'Несторовна', 9)
+(149, 'Полевщиков', 'Остап', 'Макарович', 9)
+(150, 'Зубарев', 'Вадим', 'Яковович', 9)
+(151, 'Шеломов', 'Семён', 'Кириллович', 9)
+(152, 'Кузанов', 'Петр', 'Евлампиевич', 9)
+(153, 'Лысова', 'Пелагея', 'Александровна', 9)
+(154, 'Чичваркин', 'Адам', 'Казимирович', 9)
+(155, 'Чувикова', 'Осип', 'Адамович', 9)
+(156, 'Лихачева', 'Валентина', 'Мироновна', 9)
+(157, 'Кирхенштейна', 'Любава', 'Ефимовна', 9)
+(158, 'Саблин', 'Аристарх', 'Адамович', 9)
+(159, 'Щавлева', 'Елизавета', 'Германовна', 9)
+(160, 'Эвентова', 'Мария', 'Мироновна', 9)
+(161, 'Воронцова', 'Кристина', 'Николаевна', 9)
+(162, 'Низовцева', 'Берта', 'Борисовна', 9)
+(163, 'Агейкина', 'Александра', 'Алексеевна', 10)
+(164, 'Чемоданова', 'Любава', 'Станиславовна', 10)
+(165, 'Трутнев', 'Лука', 'Миронович', 10)
+(166, 'Закиров', 'Георгий', 'Федорович', 10)
+(167, 'Торсунов', 'Эрнест', 'Тихонович', 10)
+(168, 'Трутнев', 'Варфоломей', 'Богданович', 10)
+(169, 'Поливанова', 'Роза', 'Елисеевна', 10)
+(170, 'Сучков', 'Всеслав', 'Георгиевич', 10)
+(171, 'Куксюк', 'Валерьян', 'Еремеевич', 10)
+(172, 'Купревича', 'Инна', 'Елизаровна', 10)
+(173, 'Карабатов', 'Валерьян', 'Тихонович', 10)
+(174, 'Яхимовича', 'Лиана', 'Алексеевна', 10)
+(175, 'Иванова', 'Агния', 'Ираклиевна', 10)
+(176, 'Журавлёва', 'Каролина', 'Родионовна', 10)
+(177, 'Январев', 'Ипполит', 'Эмилевич', 10)
+(178, 'Нарыков', 'Якуб', 'Модестович', 10)
+(179, 'Сысоев', 'Прокл', 'Мечиславович', 10)
+(180, 'Канадцева', 'Алина', 'Несторовна', 10)
+(181, 'Ящина', 'Таисия', 'Игнатиевна', 11)
+(182, 'Кручинина', 'Аза', 'Леонидовна', 11)
+(183, 'Сушилов', 'Владимир', 'Миронович', 11)
+(184, 'Касимова', 'Маргарита', 'Мефодиевна', 11)
+(185, 'Колесникова', 'Алина', 'Мефодиевна', 11)
+(186, 'Попова', 'Нона', 'Николаевна', 11)
+(187, 'Курчатова', 'Раиса', 'Афанасиевна', 11)
+(188, 'Витаева', 'Клара', 'Тимуровна', 11)
+(189, 'Яровый', 'Павел', 'Артемиевич', 11)
+(190, 'Сочеванов', 'Кондрат', 'Давыдович', 11)
+(191, 'Сагадиева', 'Ираида', 'Германовна', 11)
+(192, 'Сушилов', 'Антип', 'Матвеевич', 11)
+(193, 'Саянкова', 'Ульяна', 'Серафимовна', 11)
+(194, 'Емелин', 'Серафим', 'Иосифович', 11)
+(195, 'Лебедева', 'Дина', 'Федотовна', 11)
+(196, 'Коллерова', 'Доминика', 'Тимуровна', 11)
+(197, 'Царицына', 'Христина', 'Марковна', 11)
+(198, 'Сиянский', 'Агафон', 'Анатолиевич', 11)
+(199, 'Телицына', 'Александра', 'Романовна', 12)
+(200, 'Балабанова', 'Бронислава', 'Елизаровна', 12)
+(201, 'Сенотрусова', 'Юнона', 'Леонидовна', 12)
+(202, 'Архаткина', 'Ульяна', 'Захаровна', 12)
+(203, 'Хомичева', 'Вероника', 'Данилевна', 12)
+(204, 'Алимкин', 'Владислав', 'Самуилович', 12)
+(205, 'Агейкина', 'Розалия', 'Леонидовна', 12)
+(206, 'Эйбоженко', 'Георгий', 'Артемиевич', 12)
+(207, 'Яшина', 'Алина', 'Мироновна', 12)
+(208, 'Гайдуков', 'Мирон', 'Елизарович', 12)
+(209, 'Вельяминова', 'Наталия', 'Якововна', 12)
+(210, 'Низьев', 'Кир', 'Федорович', 12)
+(211, 'Каде', 'Алиса', 'Геннадиевна', 12)
+(212, 'Агейкина', 'Жанна', 'Ипполитовна', 12)
+(213, 'Митрофанов', 'Викентий', 'Наумович', 12)
+(214, 'Яскина', 'Раиса', 'Георгиевна', 12)
+(215, 'Журавлёва', 'Влада', 'Данииловна', 12)
+(216, 'Федин', 'Наум', 'Валерьянович', 12)
+(217, 'Гулин', 'Марк', 'Ираклиевич', 13)
+(218, 'Панарина', 'Светлана', 'Фомевна', 13)
+(219, 'Ревягин', 'Виссарион', 'Никитевич', 13)
+(220, 'Гришкин', 'Данила', 'Анатолиевич', 13)
+(221, 'Мутовин', 'Агап', 'Владимирович', 13)
+(222, 'Сиянских', 'Архип', 'Гаврилевич', 13)
+(223, 'Карамышева', 'Арина', 'Всеволодовна', 13)
+(224, 'Толстобров', 'Парфен', 'Савелиевич', 13)
+(225, 'Якушкин', 'Иван', 'Аполлинариевич', 13)
+(226, 'Коровин', 'Лукьян', 'Тихонович', 13)
+(227, 'Ягафаров', 'Чеслав', 'Леонидович', 13)
+(228, 'Пичугина', 'Эмма', 'Анатолиевна', 13)
+(229, 'Шурьева', 'Маргарита', 'Петровна', 13)
+(230, 'Ювелев', 'Никанор', 'Федосиевич', 13)
+(231, 'Цирюльникова', 'Пелагея', 'Несторовна', 13)
+(232, 'Нарыкова', 'Анастасия', 'Давидовна', 13)
+(233, 'Малюгина', 'Рада', 'Олеговна', 13)
+(234, 'Голодяева', 'Ника', 'Анатолиевна', 13)
+(235, 'Бояринов', 'Викентий', 'Серафимович', 14)
+(236, 'Сагунов', 'Всеслав', 'Тарасович', 14)
+(237, 'Панькива', 'Доминика', 'Никитевна', 14)
+(238, 'Чунца', 'Всеслава', 'Елисеевна', 14)
+(239, 'Курбатова', 'Виктория', 'Феликсовна', 14)
+(240, 'Сапрыкин', 'Андрей', 'Адамович', 14)
+(241, 'Салькова', 'Агния', 'Вячеславовна', 14)
+(242, 'Эйлера', 'Изольда', 'Никитевна', 14)
+(243, 'Федченкова', 'Лиана', 'Глебовна', 14)
+(244, 'Жичкина', 'Доминика', 'Константиновна', 14)
+(245, 'Чендев', 'Анатолий', 'Елисеевич', 14)
+(246, 'Лапухина', 'Эвелина', 'Иосифовна', 14)
+(247, 'Содовский', 'Руслан', 'Аполлинариевич', 14)
+(248, 'Куксилов', 'Феликс', 'Захарович', 14)
+(249, 'Набокина', 'Яна', 'Николаевна', 14)
+(250, 'Магазинер', 'Феофан', 'Никитевич', 14)
+(251, 'Ягофарова', 'Дарья', 'Константиновна', 14)
+(252, 'Брюханова', 'Лада', 'Германовна', 14)
+(253, 'Ананьев', 'Ираклий', 'Куприянович', 15)
+(254, 'Федосова', 'Ника', 'Леонидовна', 15)
+(255, 'Витаева', 'Любава', 'Кузьмевна', 15)
+(256, 'Петрухин', 'Всеволод', 'Иосифович', 15)
+(257, 'Шатова', 'Антонина', 'Ипполитовна', 15)
+(258, 'Меншикова', 'Рада', 'Всеволодовна', 15)
+(259, 'Комолов', 'Олег', 'Ипатович', 15)
+(260, 'Эйлера', 'Жанна', 'Ефимовна', 15)
+(261, 'Редругина', 'Пелагея', 'Николаевна', 15)
+(262, 'Семенов', 'Максимильян', 'Епифанович', 15)
+(263, 'Балабанова', 'Галина', 'Яновна', 15)
+(264, 'Путилина', 'Лада', 'Василиевна', 15)
+(265, 'Канадов', 'Порфирий', 'Денисович', 15)
+(266, 'Лапухина', 'Евгения', 'Евгениевна', 15)
+(267, 'Соломинцева', 'Злата', 'Петровна', 15)
+(268, 'Лазуткин', 'Илья', 'Модестович', 15)
+(269, 'Камбарова', 'Лиана', 'Несторовна', 15)
+(270, 'Бакрылова', 'Вера', 'Несторовна', 15)
+(271, 'Сиянский', 'Самуил', 'Архипович', 16)
+(272, 'Яворов', 'Данила', 'Артемиевич', 16)
+(273, 'Привалов', 'Константин', 'Викентиевич', 16)
+(274, 'Гершковича', 'Вероника', 'Данилевна', 16)
+(275, 'Дрягина', 'Дина', 'Алексеевна', 16)
+(276, 'Артёмов', 'Онуфрий', 'Евстафиевич', 16)
+(277, 'Яшина', 'Валерия', 'Олеговна', 16)
+(278, 'Истлентьев', 'Адриан', 'Карлович', 16)
+(279, 'Москвитина', 'Надежда', 'Глебовна', 16)
+(280, 'Богатова', 'Эвелина', 'Леонидовна', 16)
+(281, 'Созонтова', 'Рада', 'Иосифовна', 16)
+(282, 'Стрельцова', 'Оксана', 'Федоровна', 16)
+(283, 'Пищальников', 'Анатолий', 'Наумович', 16)
+(284, 'Чиркова', 'Роза', 'Ильевна', 16)
+(285, 'Янаев', 'Эрнст', 'Денисович', 16)
+(286, 'Казакова', 'Яна', 'Романовна', 16)
+(287, 'Нырко', 'Изольда', 'Казимировна', 16)
+(288, 'Жичкина', 'Элеонора', 'Михеевна', 16)
+(289, 'Пярин', 'Валерьян', 'Ипполитович', 17)
+(290, 'Корнева', 'Ксения', 'Ефимовна', 17)
+(291, 'Никулин', 'Радислав', 'Леонидович', 17)
+(292, 'Новокшонов', 'Радислав', 'Валерьянович', 17)
+(293, 'Лебедева', 'Вероника', 'Филипповна', 17)
+(294, 'Лысова', 'Зоя', 'Данилевна', 17)
+(295, 'Смагина', 'Ираида', 'Данилевна', 17)
+(296, 'Яблочкова', 'Варвара', 'Яновна', 17)
+(297, 'Кондракова', 'Эвелина', 'Виталиевна', 17)
+(298, 'Львов', 'Валерьян', 'Фомевич', 17)
+(299, 'Гавриков', 'Всеволод', 'Никифорович', 17)
+(300, 'Машир', 'Кондрат', 'Семенович', 17)
+(301, 'Шалупов', 'Ким', 'Данилевич', 17)
+(302, 'Капралова', 'Кристина', 'Иларионовна', 17)
+(303, 'Самохина', 'Доминика', 'Игнатиевна', 17)
+(304, 'Сафронов', 'Федор', 'Левович', 17)
+(305, 'Кузьминых', 'Онуфрий', 'Серафимович', 17)
+(306, 'Январев', 'Владимир', 'Серафимович', 17)
+(307, 'Никашин', 'Якуб', 'Георгиевич', 18)
+(308, 'Сиянских', 'Самуил', 'Викентиевич', 18)
+(309, 'Скуратов', 'Георгий', 'Владимирович', 18)
+(310, 'Лысова', 'Лидия', 'Тимофеевна', 18)
+(311, 'Чернецкий', 'Владимир', 'Елисеевич', 18)
+(312, 'Овчинников', 'Арсений', 'Серафимович', 18)
+(313, 'Эйлера', 'Елена', 'Тимуровна', 18)
+(314, 'Клокова', 'Варвара', 'Брониславовна', 18)
+(315, 'Абросимова', 'Арина', 'Василиевна', 18)
+(316, 'Машир', 'Платон', 'Федосиевич', 18)
+(317, 'Скворцов', 'Модест', 'Денисович', 18)
+(318, 'Якухина', 'Анастасия', 'Трофимовна', 18)
+(319, 'Щукин', 'Прокл', 'Кириллович', 18)
+(320, 'Журавлёва', 'Вероника', 'Глебовна', 18)
+(321, 'Эвентова', 'Ефросиния', 'Анатолиевна', 18)
+(322, 'Щукин', 'Осип', 'Андреевич', 18)
+(323, 'Полевщикова', 'Анастасия', 'Потаповна', 18)
+(324, 'Петрухина', 'Любовь', 'Святославовна', 18)
+(325, 'Поварницын', 'Роман', 'Геннадиевич', 19)
+(326, 'Зубарев', 'Юлий', 'Ипатиевич', 19)
+(327, 'Абакумова', 'Роза', 'Анатолиевна', 19)
+(328, 'Беломестный', 'Евдоким', 'Федотович', 19)
+(329, 'Тимашев', 'Владимир', 'Валерьянович', 19)
+(330, 'Малюгин', 'Агафон', 'Игоревич', 19)
+(331, 'Куклачёв', 'Ираклий', 'Леонидович', 19)
+(332, 'Тукай', 'Кондратий', 'Давидович', 19)
+(333, 'Веденеева', 'Злата', 'Игоревна', 19)
+(334, 'Жутова', 'Марина', 'Ефимовна', 19)
+(335, 'Кудашова', 'Эмилия', 'Романовна', 19)
+(336, 'Шалушкина', 'Ева', 'Карповна', 19)
+(337, 'Куксюк', 'Андрон', 'Савелиевич', 19)
+(338, 'Смагина', 'Екатерина', 'Никитевна', 19)
+(339, 'Балина', 'Светлана', 'Ефимовна', 19)
+(340, 'Юшкова', 'Галина', 'Брониславовна', 19)
+(341, 'Сочеванова', 'Майя', 'Юлиевна', 19)
+(342, 'Мячина', 'Эмма', 'Николаевна', 19)
+(343, 'Задкова', 'Милена', 'Афанасиевна', 20)
+(344, 'Яшина', 'Регина', 'Ипполитовна', 20)
+(345, 'Эрдниева', 'Ника', 'Ростиславовна', 20)
+(346, 'Новицкий', 'Эрнест', 'Миронович', 20)
+(347, 'Яцунова', 'Людмила', 'Данииловна', 20)
+(348, 'Канадцев', 'Макар', 'Андреевич', 20)
+(349, 'Жданов', 'Сергей', 'Иванович', 20)
+(350, 'Карасёва', 'Майя', 'Алексеевна', 20)
+(351, 'Апакидзе', 'Иосиф', 'Всеволодович', 20)
+(352, 'Лещенко', 'Вероника', 'Геннадиевна', 20)
+(353, 'Красенков', 'Фадей', 'Панкратиевич', 20)
+(354, 'Гончаров', 'Владилен', 'Сократович', 20)
+(355, 'Мишнева', 'Екатерина', 'Иосифовна', 20)
+(356, 'Лунин', 'Авдей', 'Герасимович', 20)
+(357, 'Куваева', 'Светлана', 'Вячеславовна', 20)
+(358, 'Овчинников', 'Вадим', 'Кириллович', 20)
+(359, 'Карамышев', 'Емельян', 'Глебович', 20)
+(360, 'Хабалова', 'Юнона', 'Казимировна', 20)
+(361, 'Фотин', 'Тихон', 'Наумович', 21)
+(362, 'Шалушкина', 'Лариса', 'Ильевна', 21)
+(363, 'Долгоруков', 'Рубен', 'Левович', 21)
+(364, 'Никулин', 'Модест', 'Ипатиевич', 21)
+(365, 'Кирхенштейна', 'Полина', 'Тимуровна', 21)
+(366, 'Полищука', 'Регина', 'Ипполитовна', 21)
+(367, 'Якушин', 'Кирилл', 'Трофимович', 21)
+(368, 'Вятт', 'Филипп', 'Вячеславович', 21)
+(369, 'Телицын', 'Леонид', 'Модестович', 21)
+(370, 'Богоносцева', 'Наталья', 'Данилевна', 21)
+(371, 'Бурмакин', 'Вячеслав', 'Епифанович', 21)
+(372, 'Редругин', 'Изяслав', 'Чеславович', 21)
+(373, 'Жичкин', 'Адам', 'Макарович', 21)
+(374, 'Богачёв', 'Ефрем', 'Ипполитович', 21)
+(375, 'Катериночкина', 'Вероника', 'Карповна', 21)
+(376, 'Минеев', 'Эрнест', 'Сигизмундович', 21)
+(377, 'Чадов', 'Антип', 'Иннокентиевич', 21)
+(378, 'Багров', 'Лавр', 'Изяславович', 21)
+(379, 'Осинова', 'Каролина', 'Мефодиевна', 22)
+(380, 'Балдагуев', 'Кондрат', 'Герасимович', 22)
+(381, 'Кондучалова', 'Роза', 'Глебовна', 22)
+(382, 'Элькина', 'Таисия', 'Казимировна', 22)
+(383, 'Жвикова', 'Марианна', 'Казимировна', 22)
+(384, 'Яницкий', 'Петр', 'Давидович', 22)
+(385, 'Коллерова', 'Анна', 'Данииловна', 22)
+(386, 'Ёжина', 'Яна', 'Павеловна', 22)
+(387, 'Лещенко', 'Аза', 'Геннадиевна', 22)
+(388, 'Ярмольника', '\ufeffАгата', 'Василиевна', 22)
+(389, 'Гагарин', 'Дмитрий', 'Назарович', 22)
+(390, 'Ямбаева', 'Кристина', 'Ростиславовна', 22)
+(391, 'Ящина', 'Стела', 'Якововна', 22)
+(392, 'Яромеев', 'Елизар', 'Брониславович', 22)
+(393, 'Буков', 'Владилен', 'Даниилович', 22)
+(394, 'Голов', 'Виктор', 'Назарович', 22)
+(395, 'Левковича', 'Наталья', 'Несторовна', 22)
+(396, 'Пономарёва', 'Лариса', 'Романовна', 22)
+(397, 'Столярова', 'Изольда', 'Анатолиевна', 23)
+(398, 'Яцков', 'Даниил', 'Измаилович', 23)
+(399, 'Макаркина', 'Любовь', 'Святославовна', 23)
+(400, 'Горева', 'Яна', 'Марковна', 23)
+(401, 'Бояринов', 'Артур', 'Наумович', 23)
+(402, 'Зиновьева', 'Лариса', 'Тимуровна', 23)
+(403, 'Серёгин', 'Порфирий', 'Севастьянович', 23)
+(404, 'Лидина', 'Ника', 'Ираклиевна', 23)
+(405, 'Зарубин', 'Аскольд', 'Филимонович', 23)
+(406, 'Ожогина', 'Виктория', 'Афанасиевна', 23)
+(407, 'Сияница', 'Лиана', 'Трофимовна', 23)
+(408, 'Шепелева', 'Валентина', 'Константиновна', 23)
+(409, 'Никологорский', 'Варфоломей', 'Эрнстович', 23)
+(410, 'Ошуркова', 'Рада', 'Игнатиевна', 23)
+(411, 'Шевцов', 'Владислав', 'Мечиславович', 23)
+(412, 'Хомичева', 'Дарья', 'Несторовна', 23)
+(413, 'Куксюк', 'Агап', 'Михеевич', 23)
+(414, 'Андреюшкина', 'Эмилия', 'Семеновна', 23)
+(415, 'Шабалина', 'Лидия', 'Серафимовна', 24)
+(416, 'Осина', 'Ираида', 'Федотовна', 24)
+(417, 'Болотников', 'Нестор', 'Миронович', 24)
+(418, 'Бушуев', 'Парфен', 'Проклович', 24)
+(419, 'Коршикова', 'Злата', 'Афанасиевна', 24)
+(420, 'Лебединцев', 'Руслан', 'Ростиславович', 24)
+(421, 'Карнаухова', 'Агния', 'Елисеевна', 24)
+(422, 'Голов', 'Петр', 'Кириллович', 24)
+(423, 'Торсунов', 'Виталий', 'Самуилович', 24)
+(424, 'Головнин', 'Михей', 'Ульянович', 24)
+(425, 'Угольников', 'Варфоломей', 'Ростиславович', 24)
+(426, 'Щепетинникова', 'Эвелина', 'Владленовна', 24)
+(427, 'Иванова', 'Лилия', 'Георгиевна', 24)
+(428, 'Янишина', 'Берта', 'Евгениевна', 24)
+(429, 'Буковский', 'Вениамин', 'Кириллович', 24)
+(430, 'Дыховичный', 'Валерьян', 'Давидович', 24)
+(431, 'Новицкий', 'Юлиан', 'Платонович', 24)
+(432, 'Коптильников', 'Виктор', 'Онуфриевич', 24)
+(433, 'Яровый', 'Роман', 'Наумович', 25)
+(434, 'Полевщиков', 'Кузьма', 'Проклович', 25)
+(435, 'Артёмов', 'Юлиан', 'Капитонович', 25)
+(436, 'Радостина', 'Яна', 'Яновна', 25)
+(437, 'Силиванов', 'Максимильян', 'Анатолиевич', 25)
+(438, 'Нуряев', 'Тихон', 'Ефремович', 25)
+(439, 'Кудашова', 'Всеслава', 'Иосифовна', 25)
+(440, 'Аносова', 'Дина', 'Германовна', 25)
+(441, 'Лутугин', 'Рюрик', 'Севастьянович', 25)
+(442, 'Верясов', 'Максимильян', 'Вячеславович', 25)
+(443, 'Шибалкина', 'Юнона', 'Карповна', 25)
+(444, 'Боярский', 'Аким', 'Семенович', 25)
+(445, 'Жигунов', 'Ефрем', 'Фролович', 25)
+(446, 'Элькина', 'Лилия', 'Данилевна', 25)
+(447, 'Тяпичева', 'Лариса', 'Всеволодовна', 25)
+(448, 'Нилов', 'Казимир', 'Мечиславович', 25)
+(449, 'Пустоходова', 'Антонина', 'Серафимовна', 25)
+(450, 'Полевщиков', 'Николай', 'Венедиктович', 25)
+(451, 'Угольников', 'Мирослав', 'Леонидович', 26)
+(452, 'Квартовский', 'Леонид', 'Федорович', 26)
+(453, 'Грабарь', 'Зоя', 'Михеевна', 26)
+(454, 'Куджиашвили', 'Тихон', 'Игнатиевич', 26)
+(455, 'Новиков', 'Агафон', 'Якубович', 26)
+(456, 'Шепелева', 'Оксана', 'Елизаровна', 26)
+(457, 'Гончаров', 'Лев', 'Данилевич', 26)
+(458, 'Клименков', 'Афанасий', 'Сидорович', 26)
+(459, 'Скворцов', 'Анатолий', 'Иннокентиевич', 26)
+(460, 'Ржевский', 'Станислав', 'Григориевич', 26)
+(461, 'Осина', 'Арина', 'Святославовна', 26)
+(462, 'Янцев', 'Ипполит', 'Игнатиевич', 26)
+(463, 'Попов', 'Рубен', 'Титович', 26)
+(464, 'Никулаичев', 'Ираклий', 'Якубович', 26)
+(465, 'Левковича', 'Лада', 'Афанасиевна', 26)
+(466, 'Шепелева', 'Майя', 'Никитевна', 26)
+(467, 'Яковец', 'Осип', 'Потапович', 26)
+(468, 'Нестерова', 'Эвелина', 'Германовна', 26)
+22:36:41 Action done with result: Transaction commited!
+22:36:41 Action done with result: Cursor closed!
+22:36:48 Action done with result: Cursor connected!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: File is opened!
+22:36:48 Action done with result: Successfully written in table!
+22:36:48 Action done with result: Transaction commited!
+22:36:48 Action done with result: Cursor closed!
+22:36:49 Action done with result: Cursor connected!
+22:36:49 Action done with result: Successfully read from table!
+22:36:49 Editing table: Teachers
+(1, 'Петрищева', 'Эвелина', 'Якововна', '0')
+(2, 'Пережогина', 'Оксана', 'Марковна', '1')
+(3, 'Земляков', 'Валерьян', 'Проклович', '2')
+(4, 'Тимиряев', 'Прокл', 'Юриевич', '3')
+(5, 'Титова', 'Фаина', 'Якововна', '4')
+(6, 'Тяпичева', 'Элеонора', 'Федотовна', '5')
+(7, 'Азаренкова', 'Владислава', 'Геннадиевна', '6')
+(8, 'Торсунов', 'Игорь', 'Вячеславович', '7')
+(9, 'Шалупов', 'Ираклий', 'Андронович', '8')
+(10, 'Пивоваров', 'Зиновий', 'Проклович', '9')
+(11, 'Петрищева', 'Всеслава', 'Елизаровна', '10')
+(12, 'Няшина', 'Эмилия', 'Евгениевна', '11')
+(13, 'Балыков', 'Юлиан', 'Андронович', '12')
+(14, 'Якушкин', 'Пахом', 'Иванович', '13')
+(15, 'Левковича', 'Алиса', 'Трофимовна', '14')
+(16, 'Грязнов', 'Дмитрий', 'Зиновиевич', '15')
+(17, 'Шибалкин', 'Прокофий', 'Ефремович', '16')
+(18, 'Ефимов', 'Нестор', 'Пахомович', '17')
+(19, 'Ветров', 'Лукьян', 'Севастьянович', '18')
+(20, 'Лачинов', 'Всеслав', 'Олегович', '19')
+(21, 'Ясакова', 'Майя', 'Иларионовна', '20')
+(22, 'Оболенский', 'Эрнест', 'Филимонович', '21')
+(23, 'Балдагуева', 'Анна', 'Анатолиевна', '22')
+(24, 'Пономарёва', 'Ангелина', 'Игоревна', '23')
+(25, 'Пятосин', 'Кондрат', 'Иванович', '24')
+(26, 'Каде', 'Ульяна', 'Владиленовна', '25')
+(27, 'Хромова', 'Ефросиния', 'Иосифовна', '26')
+(28, 'Алимкина', 'Доминика', 'Антониновна', '27')
+(29, 'Орехов', 'Эрнст', 'Александрович', '28')
+(30, 'Белоконь', 'Виктор', 'Капитонович', '29')
+(31, 'Козлитина', 'Антонина', 'Карповна', '30')
+(32, 'Журавлёва', 'Ева', 'Вячеславовна', '31')
+(33, 'Сай', 'Кузьма', 'Тарасович', '32')
+(34, 'Петрухина', 'Берта', 'Захаровна', '33')
+(35, 'Яковченко', 'Всеслава', 'Романовна', '34')
+(36, 'Рогачёв', 'Эммануил', 'Наумович', '35')
+(37, 'Салькова', 'Евгения', 'Яновна', '36')
+(38, 'Яблочкова', 'Роза', 'Мироновна', '37')
+(39, 'Масмеха', 'Эмма', 'Ильевна', '38')
+(40, 'Ошурков', 'Самуил', 'Давыдович', '39')
+(41, 'Автухов', 'Аким', 'Сократович', '40')
+(42, 'Лапухов', 'Онуфрий', 'Давидович', '41')
+(43, 'Левкин', 'Кондрат', 'Гаврилевич', '42')
+(44, 'Куликов', 'Андрон', 'Адамович', '43')
+(45, 'Негеса', 'Эмилия', 'Антониновна', '44')
+(46, 'Щепетинникова', 'Алина', 'Георгиевна', '45')
+(47, 'Вьялицына', 'Мария', 'Фомевна', '46')
+22:36:49 Action done with result: Transaction commited!
+22:36:49 Action done with result: Cursor closed!
+22:37:01 Action done with result: Cursor connected!
+22:37:01 Action done with result: Successfully read from table!
+22:37:01 Action done with result: Connection closed!

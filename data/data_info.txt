@@ -10,3 +10,4 @@ Strings 7-8: The range of existing marks. (min/max)
 Strings 9-10: The range of group's homeworks. (min/max)
 String 11: The lowest possible place in the olympiads.
 Strings 12-13: The range of students in class. (min/max)
+Strings 14-15: The range of marks for each student. (min/max)
