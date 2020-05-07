@@ -6,6 +6,7 @@ import psycopg2
 import datetime
 import os
 import hashlib
+from getpass import getpass
 
 
 class User:
@@ -41,7 +42,7 @@ class User:
     def get_login(self):
         self.db_name = input("DB name:")
         self.username = input("Username:")
-        self.password = input("Password:")
+        self.password = getpass('Password: ')
         self.host = input("Host IP:")
 
 
@@ -161,7 +162,9 @@ class Db:
                       'Cannot close cursor!', 'Cursor closed!', 'Failed to read from table!',
                       'Successfully read from table!', 'Cannot open file!', 'File is opened!', 'Groups table is empty!',
                       'Teachers table is empty!', 'Students table is empty!', 'User request failed!',
-                      'User request completed!', 'Transaction has been finished correctly!']
+                      'User request completed!', 'Transaction has been finished correctly!', 'No database response!',
+                      'Subjects list is empty!', 'Achievements list is empty!', 'Faults list is empty!',
+                      'NULL name have been got!']
 
     # Constructor.
     # Opening DB connection, starting logging system.
@@ -227,27 +230,25 @@ class Db:
             if random.randint(0, 1) == 0:
                 l_file = open(r'dicts\l_names_m.dat', 'r', encoding='utf-8')
                 l_name = l_file.readlines()
-                l_name = random.choice(l_name)
 
                 f_file = open(r'dicts\f_names_m.dat', 'r', encoding='utf-8')
                 f_name = f_file.readlines()
-                f_name = random.choice(f_name)
 
                 patronymic_file = open(r'dicts\patronymics_m.dat', 'r', encoding='utf-8')
                 patronymic = patronymic_file.readlines()
-                patronymic = random.choice(patronymic)
             else:
                 l_file = open(r'dicts\l_names_f.dat', 'r', encoding='utf-8')
                 l_name = l_file.readlines()
-                l_name = random.choice(l_name)
 
                 f_file = open(r'dicts\f_names_f.dat', 'r', encoding='utf-8')
                 f_name = f_file.readlines()
-                f_name = random.choice(f_name)
 
                 patronymic_file = open(r'dicts\patronymics_f.dat', 'r', encoding='utf-8')
                 patronymic = patronymic_file.readlines()
-                patronymic = random.choice(patronymic)
+
+            l_name = random.choice(l_name)
+            f_name = random.choice(f_name)
+            patronymic = random.choice(patronymic)
         except FileNotFoundError:
             self.log.write_log("-1", Db.report_handler[18], self.conn)
 
@@ -255,9 +256,9 @@ class Db:
         else:
             self.log.write_log("-1", Db.report_handler[19], self.conn)
 
-            name[0] = l_name
-            name[1] = f_name
-            name[2] = patronymic
+            name[0] = l_name.rstrip('\n')
+            name[1] = f_name.rstrip('\n')
+            name[2] = patronymic.rstrip('\n')
 
             l_file.close()
             f_file.close()
@@ -282,7 +283,6 @@ class Db:
         else:
             self.log.write_log("-1", Db.report_handler[19], self.conn)
 
-            sub_list = random.choice(sub_list)
             sub_file.close()
 
             return sub_list
@@ -347,10 +347,12 @@ class Db:
                             for j in range(int(self.data.data_file[11].rstrip('\n')),
                                            int(self.data.data_file[12].rstrip('\n'))):
                                 name = self.name_rand()
-                                if name != 0:
+                                if name != 0 and len(name) != 0:
                                     cursor.execute(
                                         'INSERT INTO public.students (last_name, first_name, patrononymic, group_id) '
                                         'VALUES (%s, %s, %s, %s)', (name[0], name[1], name[2], i[0]))
+                                else:
+                                    self.log.write_log("-1", Db.report_handler[30], self.conn)
                     except Exception:
                         self.log.write_log("-1", Db.report_handler[10], self.conn)
                     else:
@@ -372,9 +374,12 @@ class Db:
             try:
                 for i in range(int(self.data.data_file[5].rstrip('\n'))):
                     name = self.name_rand()
-                    if name != 0:
+
+                    if name != 0 and len(name) != 0:
                         cursor.execute('INSERT INTO public.teachers (last_name, first_name, patrononymic, classroom) '
                                        'VALUES (%s, %s, %s, %s)', (name[0], name[1], name[2], str(i)))
+                    else:
+                        self.log.write_log("-1", Db.report_handler[30], self.conn)
             except Exception:
                 self.log.write_log("-1", Db.report_handler[10], self.conn)
             else:
@@ -403,7 +408,7 @@ class Db:
                     for i in groups:
                         subject = self.subject_rand(i[1])
 
-                        if subject != 0:
+                        if len(subject) != 0 and subject != 0:
                             try:
                                 cursor.execute('SELECT student_id FROM public.students '
                                                'WHERE group_id = {0}'.format(i[0]))
@@ -419,16 +424,23 @@ class Db:
                                 try:
                                     for j in student_id:
                                         date = self.date_rand()
-                                        cursor.execute(
-                                            'INSERT INTO public.marks (student_id, subject_id, teacher_id, date, mark) '
-                                            'VALUES (%s, %s, %s, %s, %s)',
-                                            (j[0], subject, str(random.choice(teacher_id)[0]), date,
-                                             str(random.randint(int(self.data.data_file[6].rstrip('\n')),
-                                                                int(self.data.data_file[7].rstrip('\n'))))))
+
+                                        for k in range(int(self.data.data_file[13].rstrip('\n')),
+                                                       int(self.data.data_file[14].rstrip('\n'))):
+                                            cursor.execute(
+                                                'INSERT INTO public.marks (student_id, subject_id, teacher_id, date, '
+                                                'mark) VALUES (%s, %s, %s, %s, %s)',
+                                                (j[0], str(random.choice(subject).rstrip('\n')),
+                                                 str(random.choice(teacher_id)[0]), date,
+                                                 str(random.randint(int(self.data.data_file[6].rstrip('\n')),
+                                                                    int(self.data.data_file[7].rstrip('\n'))))))
                                 except Exception:
                                     self.log.write_log("-1", Db.report_handler[10], self.conn)
                                 else:
                                     self.log.write_log("-1", Db.report_handler[11], self.conn)
+                        else:
+                            self.log.write_log("-1", Db.report_handler[27], self.conn)
+
                 else:
                     self.log.write_log("-1", Db.report_handler[20], self.conn)
 
@@ -460,10 +472,9 @@ class Db:
                             for i in groups:
                                 subject = self.subject_rand(i[1])
 
-                                if subject != 0:
+                                if subject != 0 and len(subject) != 0:
                                     for j in range(int(self.data.data_file[8].rstrip('\n')),
                                                    int(self.data.data_file[9].rstrip('\n'))):
-
                                         task = "Стр. " + str(random.randint(1, 150)) + ", №" + \
                                                str(random.randint(1, 90))
                                         date = self.date_rand()
@@ -471,7 +482,10 @@ class Db:
                                         cursor.execute(
                                             'INSERT INTO public.homework (teacher_id, subject_id, group_id, info, date)'
                                             'VALUES (%s, %s, %s, %s, %s)',
-                                            (str(random.choice(teacher_id)[0]), subject, i[0], task, date))
+                                            (str(random.choice(teacher_id)[0]),
+                                             str(random.choice(subject).rstrip('\n')), i[0], task, date))
+                                else:
+                                    self.log.write_log("-1", Db.report_handler[27], self.conn)
                         except Exception:
                             self.log.write_log("-1", Db.report_handler[10], self.conn)
                         else:
@@ -491,11 +505,11 @@ class Db:
             self.log.write_log("-1", Db.report_handler[8], self.conn)
         else:
             self.log.write_log("-1", Db.report_handler[9], self.conn)
-
+    
             try:
                 cursor.execute('SELECT student_id FROM public.students')
                 student_id = cursor.fetchall()
-
+    
                 cursor.execute('SELECT COUNT (*) FROM public.students')
                 student_cnt = cursor.fetchall()
                 student_cnt = int(student_cnt[0][0])
@@ -503,7 +517,7 @@ class Db:
                 self.log.write_log("-1", Db.report_handler[16], self.conn)
             else:
                 self.log.write_log("-1", Db.report_handler[17], self.conn)
-
+    
                 if student_cnt != 0:
                     try:
                         achv_file = open(r'dicts\achvs.dat', 'r', encoding='utf-8')
@@ -512,22 +526,25 @@ class Db:
                         self.log.write_log("-1", Db.report_handler[18], self.conn)
                     else:
                         self.log.write_log("-1", Db.report_handler[19], self.conn)
-
+    
                         try:
-                            for i in range(1, random.randint(1, student_cnt)):
-                                cursor.execute('INSERT INTO public.achievements (student_id, name, place) '
-                                               'VALUES (%s, %s, %s)',
-                                               (random.choice(student_id), random.choice(achv),
-                                                random.randint(1, int(self.data.data_file[10].rstrip('\n')))))
+                            if len(achv) != 0:
+                                for i in range(1, random.randint(1, student_cnt)):
+                                    cursor.execute('INSERT INTO public.achievements (student_id, name, place) '
+                                                   'VALUES (%s, %s, %s)',
+                                                   (random.choice(student_id), random.choice(achv).rstrip('\n'),
+                                                    random.randint(1, int(self.data.data_file[10].rstrip('\n')))))
+                            else:
+                                self.log.write_log("-1", Db.report_handler[28], self.conn)
                         except Exception:
                             self.log.write_log("-1", Db.report_handler[10], self.conn)
                         else:
                             self.log.write_log("-1", Db.report_handler[11], self.conn)
-
+    
                         achv_file.close()
                 else:
                     self.log.write_log("-1", Db.report_handler[22], self.conn)
-
+    
             self.finish_transaction(cursor, "Achievements")
 
     # Generation "faults" table.
@@ -538,22 +555,22 @@ class Db:
             self.log.write_log("-1", Db.report_handler[8], self.conn)
         else:
             self.log.write_log("-1", Db.report_handler[9], self.conn)
-
+    
             try:
                 cursor.execute('SELECT student_id FROM public.students')
                 student_id = cursor.fetchall()
-
+    
                 cursor.execute('SELECT COUNT (*) FROM public.students')
                 student_cnt = cursor.fetchall()
                 student_cnt = int(student_cnt[0][0])
-
+    
                 cursor.execute('SELECT teacher_id FROM public.teachers')
                 teacher_id = cursor.fetchall()
             except Exception:
                 self.log.write_log("-1", Db.report_handler[16], self.conn)
             else:
                 self.log.write_log("-1", Db.report_handler[17], self.conn)
-
+    
                 if student_cnt != 0:
                     if len(teacher_id) != 0:
                         try:
@@ -563,23 +580,28 @@ class Db:
                             self.log.write_log("-1", Db.report_handler[18], self.conn)
                         else:
                             self.log.write_log("-1", Db.report_handler[19], self.conn)
-
-                            try:
-                                for i in range(1, random.randint(1, student_cnt)):
-                                    cursor.execute('INSERT INTO public.faults (teacher_id, student_id, info) '
-                                                   'VALUES (%s, %s, %s)',
-                                                   (str(random.choice(teacher_id)[0]),
-                                                    str(random.choice(student_id)[0]),
-                                                    random.choice(fault)))
-                            except Exception:
-                                self.log.write_log("-1", Db.report_handler[10], self.conn)
+    
+                            if len(fault) != 0:
+                                try:
+                                    for i in range(1, random.randint(1, student_cnt)):
+                                        cursor.execute('INSERT INTO public.faults (teacher_id, student_id, info) '
+                                                       'VALUES (%s, %s, %s)',
+                                                       (str(random.choice(teacher_id)[0]),
+                                                        str(random.choice(student_id)[0]),
+                                                        random.choice(fault).rstrip('\n')))
+                                except Exception:
+                                    self.log.write_log("-1", Db.report_handler[10], self.conn)
+                                else:
+                                    self.log.write_log("-1", Db.report_handler[11], self.conn)
                             else:
-                                self.log.write_log("-1", Db.report_handler[11], self.conn)
-
+                                self.log.write_log("-1", Db.report_handler[29], self.conn)
+    
                             fault_file.close()
+                    else:
+                        self.log.write_log("-1", Db.report_handler[21], self.conn)
                 else:
                     self.log.write_log("-1", Db.report_handler[22], self.conn)
-
+    
             self.finish_transaction(cursor, "Faults")
 
     # Execution user's requests.
@@ -590,7 +612,7 @@ class Db:
             self.log.write_log("-1", Db.report_handler[8], self.conn)
         else:
             self.log.write_log("-1", Db.report_handler[9], self.conn)
-
+    
             try:
                 path = "sql\\" + name
                 query_file = open(path, 'r', encoding='utf-8')
@@ -599,14 +621,42 @@ class Db:
                 print("No such file found.\n")
             else:
                 self.log.write_log("-1", Db.report_handler[19], self.conn)
-                query = query_file.read()
-
+                query_strs = query_file.readlines()
+                query = ''
+    
+                for i in query_strs:
+                    query += i.rstrip('\n')
+    
                 try:
                     result = "User request done with: "
                     cursor.execute(query)
-                    result += str(cursor.fetchall())
+    
+                    try:
+                        result += str(cursor.fetchall())
+                    except Exception:
+                        self.log.write_log("-1", Db.report_handler[26], self.conn)
+                    else:
+                        self.log.write_log("-1", result, self.conn)
                 except Exception:
                     self.log.write_log("-1", Db.report_handler[23], self.conn)
                 else:
                     self.log.write_log("-1", Db.report_handler[24], self.conn)
-                    self.log.write_log("-1", result, self.conn)
+    
+                query_file.close()
+    
+            try:
+                self.conn.commit()
+            except Exception:
+                self.log.write_log("-1", Db.report_handler[12], self.conn)
+            else:
+                self.log.write_log("-1", Db.report_handler[13], self.conn)
+    
+                try:
+                    cursor.close()
+                except Exception:
+                    self.log.write_log("-1", Db.report_handler[14], self.conn)
+                else:
+                    self.log.write_log("-1", Db.report_handler[15], self.conn)
+    
+                    print(Db.report_handler[25])
+                    os.system("pause")
